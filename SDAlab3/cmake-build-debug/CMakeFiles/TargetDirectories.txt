@@ -1,3 +1,0 @@
-/Users/viviankulik/CLionProjects/SDAlab3/cmake-build-debug/CMakeFiles/SDAlab3.dir
-/Users/viviankulik/CLionProjects/SDAlab3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/viviankulik/CLionProjects/SDAlab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
