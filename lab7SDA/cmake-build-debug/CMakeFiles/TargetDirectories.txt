@@ -1,0 +1,3 @@
+/Users/viviankulik/Desktop/An1sem2/SDA/lab7SDA/cmake-build-debug/CMakeFiles/lab7SDA.dir
+/Users/viviankulik/Desktop/An1sem2/SDA/lab7SDA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/viviankulik/Desktop/An1sem2/SDA/lab7SDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
